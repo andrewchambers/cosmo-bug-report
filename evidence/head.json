@@ -1,0 +1,77 @@
+{
+  "checked_on": "2026-09-05",
+  "run_url": "https://github.com/andrewchambers/cosmo-bug-report/actions/runs/33944255524",
+  "upstream_commit": "3293fad0a9eac7865c019be98fb993eeb933405e",
+  "build_method": "Upstream Makefile; MODE= and MODE=tiny; EXAMPLES_DIRECTDEPS=LIBC_THREAD",
+  "bootstrap_toolchain": "3.9.2 (selected and provisioned by upstream Makefile)",
+  "results": [
+    {
+      "binary": "head-default.com",
+      "system": "Linux-6.17.0-1022-azure-x86_64-with-glibc2.39",
+      "machine": "x86_64",
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "binary": "head-tiny.com",
+      "system": "Linux-6.17.0-1022-azure-x86_64-with-glibc2.39",
+      "machine": "x86_64",
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "binary": "head-default.com",
+      "system": "macOS-15.7.9-x86_64-i386-64bit-Mach-O",
+      "machine": "x86_64",
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "binary": "head-tiny.com",
+      "system": "macOS-15.7.9-x86_64-i386-64bit-Mach-O",
+      "machine": "x86_64",
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}
