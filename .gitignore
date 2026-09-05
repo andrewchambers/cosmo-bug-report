@@ -2,3 +2,4 @@
 /upstream/
 /artifacts/
 __pycache__/
+/results.json
